@@ -3,7 +3,7 @@
 salario = int(input("Qual seu salario?"))
 
 if salario <= 2259:
-    print("dadasd")
+    print("você não tem desconto")
 
 elif salario >= 2259.21 and salario <= 2826.65:
     desconto = salario * 0.075

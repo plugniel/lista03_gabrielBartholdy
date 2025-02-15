@@ -21,7 +21,7 @@ elif opc == "-":
 
 elif opc == "+":
 
-    opera = num1 * num2
+    opera = num1 + num2
     print("Seu Resultado deu: {}".format(opera))
 else:
     print("OPERAÇÃO INEXISTENTE")
